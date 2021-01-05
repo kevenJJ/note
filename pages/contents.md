@@ -2,3 +2,4 @@
 ## new pages
 ## Java基础学习笔记
 ## [[Jan 5th, 2021]]
+## [[Java基础学习笔记]]
